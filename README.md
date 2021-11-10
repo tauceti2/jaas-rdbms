@@ -21,3 +21,4 @@ userPaaswd = columnt where is user password
 
 com.tagish.auth.DBLogin required debug=true dbDriver="com.mysql.jdbc.Driver" dbURL="jdbc:mysql://hostname/dbname" dbUser="username" dbPassword="password" userTable="table_name" userColumn="user_name" userPasswd="user_passwd";
 
+It's cool JAAS.
